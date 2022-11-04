@@ -1,0 +1,52 @@
+body {
+    background: #A770EF;
+    background: -webkit-linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);
+    background: linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);
+    
+
+}
+
+#a{
+    color: rgb(0, 0, 0);
+    margin-left: 450px;
+    margin-top: 150px; 
+    font: normal bold 15px/1 "Open Sans", sans-serif;
+}
+
+#b{
+    color: rgb(0, 0, 0);
+    margin-left: 450px;
+    margin-top: 20px; 
+    font: normal bold 15px/1 "Open Sans", sans-serif;
+}
+
+#c{
+    color: rgb(0, 0, 0);
+    margin-left: 450px;
+    margin-top: 20px; 
+    font: normal bold 15px/1 "Open Sans", sans-serif;
+}
+
+#calc {
+    margin-left: 520px;
+    background: #000000;
+    border-radius: 1000px;
+    padding: 20px 45px;
+    margin-top: 200px;
+    color: #ffffff;
+    display: inline-block;
+    font: normal bold 15px/1 "Open Sans", sans-serif;
+    text-align: center;
+}
+.result{
+    font: normal bold 15px/1 "Open Sans", sans-serif;
+    border-radius: 50px;
+    width: 300px;
+    height: 50px;
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    margin: 100px auto;
+    border: 1 solid black;
+
+}
